@@ -1,4 +1,4 @@
-import Greenly_CaseStudy.streamlit as st
+import streamlit as st
 import datetime
 import pandas as pd
 import numpy as np
